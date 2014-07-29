@@ -53,6 +53,8 @@
 
 #include <core/core_system.h>
 
+#include <bcm_host.h>
+
 #define RASPBERRY_PI
 
 DFB_CORE_SYSTEM( egl )
